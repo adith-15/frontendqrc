@@ -9,7 +9,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 
 ### Access with
-https://momspaghetti15.github.io/frontendqrc/
-## Author
-- Frontend Mentor - [@momspaghetti15](https://www.frontendmentor.io/profile/momspaghetti15)
+https://adith-15.github.io/frontendqrc/
 
